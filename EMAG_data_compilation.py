@@ -15,7 +15,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import time
 
-print('ENTER COORDINATES YOUR REGION (In Degrees)')
+print('ENTER COORDINATES OF YOUR TARGET REGION  (In Degrees)')
 long_min=float(input('Enter minimum Longitude = '))
 long_max=float(input('Enter maximum Longitude = '))
 lat_min=float(input('Enter minimum Latitude = '))
