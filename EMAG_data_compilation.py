@@ -5,7 +5,7 @@ HERE IS THE LINK TO IT:
 https://www.ncei.noaa.gov/products/earth-magnetic-model-anomaly-grid-2
 
 Make sure that the script is in same directory as EMAG file.
-The whole process of comilation will take some time (around 15 to 20 minutes depending on your computational resources).
+The whole process of compilation will take some time (around 15 to 20 minutes depending on your computational resources).
 In the end you wiil get a csv file containing data for your target region in the same directory named as 'Magnetic_Data.csv'.
 '''
 
